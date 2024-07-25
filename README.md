@@ -1,9 +1,10 @@
-# Site de Evento da Happy Birday
+# Site de Evento da Happy Birthday
 https://ebac-ex-happy-birday.vercel.app/
 
 Bem-vindo ao repositório do "Site de Evento da EBAC"! Este projeto é um site de eventos desenvolvido com HTML, SASS e JavaScript, utilizando Parcel como ferramenta de build. Ele possui a funcionalidade de lançamento de eventos.
 
-![Captura de tela 2024-07-20 010254](https://github.com/user-attachments/assets/72ab791e-7bc1-48ac-9950-2917540346bd)
+![Captura de tela 2024-07-25 160829](https://github.com/user-attachments/assets/4bd7287f-46c4-499e-b739-9e22373806cc)
+
 
 
 ## Índice
